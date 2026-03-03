@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "dandelion",
+  "base_artist": "Ariana Grande",
+  "createdAt": "2026-03-03T13:37:38.990717Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "A Dandelion Dies In The Wind - Piano Demo",
+      "artist": "Elton John",
+      "has_synced": false,
+      "path": "select/01_A_Dandelion_Dies_In_The_Wind_-_Piano_Demo_Elton_John.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Dandelion",
+      "artist": "Tevin Campbell",
+      "has_synced": false,
+      "path": "select/02_Dandelion_Tevin_Campbell.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Siempre Estaras en Mi (Dandelion)",
+      "artist": "Tevin Campbell",
+      "has_synced": true,
+      "path": "select/03_Siempre_Estaras_en_Mi_(Dandelion)_Tevin_Campbell.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Dandelion Graves",
+      "artist": "Black Moth Super Rainbow",
+      "has_synced": true,
+      "path": "select/04_Dandelion_Graves_Black_Moth_Super_Rainbow.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Dandelion",
+      "artist": "Boards of Canada",
+      "has_synced": true,
+      "path": "select/05_Dandelion_Boards_of_Canada.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Dandelion",
+      "artist": "Charlotte Gainsbourg",
+      "has_synced": true,
+      "path": "select/06_Dandelion_Charlotte_Gainsbourg.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Dandelion",
+      "artist": "Roland Orzabal",
+      "has_synced": true,
+      "path": "select/07_Dandelion_Roland_Orzabal.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Dandelion Seed",
+      "artist": "Jens Lekman",
+      "has_synced": true,
+      "path": "select/08_Dandelion_Seed_Jens_Lekman.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Dandelion",
+      "artist": "Anna of the North",
+      "has_synced": true,
+      "path": "select/09_Dandelion_Anna_of_the_North.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Dandelion Seed",
+      "artist": "The Primitives",
+      "has_synced": false,
+      "path": "select/10_Dandelion_Seed_The_Primitives.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Dandelion",
+      "artist": "The Rolling Stones",
+      "has_synced": true,
+      "path": "select/11_Dandelion_The_Rolling_Stones.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Dandelion",
+      "artist": "Audioslave",
+      "has_synced": true,
+      "path": "select/12_Dandelion_Audioslave.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Burdock & Dandelion",
+      "artist": "Braids",
+      "has_synced": false,
+      "path": "select/13_Burdock_&_Dandelion_Braids.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Dandelion",
+      "artist": "Said The Whale",
+      "has_synced": false,
+      "path": "select/14_Dandelion_Said_The_Whale.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Dandelion",
+      "artist": "MONGOL800",
+      "has_synced": true,
+      "path": "select/15_Dandelion_MONGOL800.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Dandelion Wine",
+      "artist": "Gregory Alan Isakov",
+      "has_synced": true,
+      "path": "select/16_Dandelion_Wine_Gregory_Alan_Isakov.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Dandelion Girls, Dandelion Boys",
+      "artist": "Mili",
+      "has_synced": true,
+      "path": "select/17_Dandelion_Girls,_Dandelion_Boys_Mili.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "dandelion",
+      "artist": "Ariana Grande",
+      "has_synced": false,
+      "path": "select/pl_01_dandelion_Ariana_Grande.txt"
+    }
+  ]
+}
